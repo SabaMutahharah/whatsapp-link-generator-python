@@ -23,4 +23,4 @@ This Python script automatically generates WhatsApp message links from a list of
 
 ## 🚀 How to Run
 ```bash
-python wa_link_generator.py
+[python wa_link_generator.py]([url](https://colab.research.google.com/drive/1eyCOepQf-lEznhM0PHXzrGlzI87tNhef?usp=sharing))
